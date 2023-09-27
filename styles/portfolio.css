@@ -94,5 +94,21 @@ p {
     text-align: center;
   }
 }
-/* left off at 08:36 of video after beginning to make responsive
-last step was working with fisrt two coloumns */
+
+.footer {
+  background-color: var(--secondary-color);
+  text-align: center;
+  border-radius: 20px;
+  margin: 40px 40px;
+  padding: 40px;
+}
+.btn-footer {
+  background-color: var(--branding-color);
+  color: white;
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 18px 30px;
+  font-family: var(--default-font-family);
+}
+/* added footer. need to adjust button positioning */
