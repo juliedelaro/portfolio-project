@@ -100,7 +100,7 @@ p {
   text-align: center;
   border-radius: 20px;
   margin: 40px 40px;
-  padding: 40px;
+  padding: 40px 5px 15px;
 }
 .btn-footer {
   background-color: var(--branding-color);
@@ -110,5 +110,15 @@ p {
   line-height: 27px;
   padding: 18px 30px;
   font-family: var(--default-font-family);
+  margin-top: 20px;
+}
+
+.footer-contact {
+  text-align: center;
+}
+
+.icons {
+  padding: 20px 20px 15px;
+  margin-bottom: 40px;
 }
 /* added footer. need to adjust button positioning */
