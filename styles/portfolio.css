@@ -117,8 +117,9 @@ p {
   text-align: center;
 }
 
-.icons {
-  padding: 20px 20px 15px;
-  margin-bottom: 40px;
+.icons a {
+  padding: 20px;
+  margin: 0 0 50px;
 }
-/* added footer. need to adjust button positioning */
+
+/* working on icon footer */
