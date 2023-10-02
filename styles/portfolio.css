@@ -125,4 +125,7 @@ p {
   margin: 0 0 50px;
 }
 
+.about-photo img {
+  max-width: 50%;
+}
 /* working on icon footer */
