@@ -38,6 +38,7 @@ p {
   background-color: var(--secondary-color);
   text-align: center;
   padding: 160px 20px;
+  margin: 40px;
 }
 
 .hero p {
@@ -107,6 +108,7 @@ p {
     background-color: var(--secondary-color);
     text-align: center;
     padding: 80px 20px;
+    margin: 0px;
   }
   .project-description {
     padding: 0;
